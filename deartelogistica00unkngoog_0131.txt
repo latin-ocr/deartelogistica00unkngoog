@@ -1,0 +1,38 @@
+DE ARTE LOGISTICA. 9
+
+prima partitione fiunt 16, secunda 8, tertia 4, quarta 2, quinta
+
+denique 1 ε Atque igitur horum 5 sunt index⁹ et 2 sunt radix.
+
+Ortae autem ex primo ortis aut sunt radicalis multiplicatio ex con· .
+tinuata multiplicatione3 aut radicalis partitio, et radicis extractiO, ex
+continuata partitione.
+
+RAchHs MULTn’LICA'rlo est radicis oblatae toties continuata multi-
+plicatio quoties est in indice unitas ; et producitur radicatum quaesitum.
+Ut dicuntur 2 radicaliter multiplicari ter, cum 8 inde pro-
+ducuntur, quia ternarius index tres unitates continet3 et ex
+prima ab unitate multiplicatione fiunt 2, secunda 4, tertia 8,
+
+quae quidem sunt radicatum quaesitum.
+
+Radicalis multiplicationis species infinitae sunt: Ut duplicatio, quae
+est multiplicatio duorum aequalium invicem, aut datae bis positae3 tripli-
+catio, quae est datae ter positae, aut trium aequalium datae.
+
+In his radicata dicuntur duplicatum, triplicatum, quadruplicatum:
+Indices,—duo, tria, quatuor: Radices,--bipartiens‚ tripartiens, quadri-
+partiens.
+
+Ut posito binario pro radice, et binario pro indice, bini binarii
+faciunt 4' duplicatum: Et indice ternario totidem bina, scilicet
+bis duo bina efficiunt 8 triplicatum ι Sic indice quaternario
+totidem bina, scilicet bis duo bina bis faciunt 16 quadrupli-
+catum. Et ita in infinitum posito binario pro radice, ut in
+sequente tabella, cujus prior series est indicum, posterior radi·
+catorum.
+
+Ι. ΙΙ. ΙΙΙ. IIII. V. VI. VII. διο.
+1. 2. 4. 8. 16. 82. 64. 128. διο.
+Β
+

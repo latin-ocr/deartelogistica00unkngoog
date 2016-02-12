@@ -1,0 +1,29 @@
+INTRoDUc‘noN. lxxiii
+
+the Logarithms, Playfair’s eulogy of him, quoted above, would
+not have been merited3 for the arithmetic of powers and
+exponente might have disclosed the Logarithms even to an
+ordinary mathematician. The more accurate statement is,
+that the invention of Logarithms led the way to the algorithm
+of powers. Napier,—-writing, be it remembered, some time in
+the sixteenth century, before Victa, ⁴Harriot, Girard, and
+Oughtred, and when Algebra was not cultivated at all in this
+country,—had no assistance from the algebraic refinement of
+working known quantities by means of other symbols than the
+significant digits, or of expressing powers by means of small
+letters instead of numeralS. He did not, for instance, consider
+aaaa as the quadruplicatum (to use his own term) of any
+number a; still less did he consider the same quantity in this
+form, a⁴3 he had neither the litera] notation of powers, nor the
+numeral notation of indices 3 for although, in explaining their
+genesiS, he named the indices, one, tw0, three, δια, and also
+noted and arranged them above the powers by the numerals l,
+2, 3, δια, yet he did not systematically attach them to the root
+for the expression of the power. To have done so would have
+been to anticipate the notation of Descartes, whose epoch is
+1637, twenty years after Napier's death. But, while he had
+not these advantages to lead him to the Logarithms, the
+
+arithmetic of exponents was so obviously to be deduced from
+k
+

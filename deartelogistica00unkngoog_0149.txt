@@ -1,0 +1,27 @@
+LIBER SECUNDUS.
+
+DE LOGISTICA ARITHMETICA.
+
+CAPUT Ι.
+
+DE INTEGRORUM NOMINATIONE ET NOTATIONE.
+
+HACTENUS computationes quantitatum omnibus Logistieae speciebus
+communium; sequuntur propriarum.
+
+Tertib, itaque, computationes vel sunt verinomiarum, vel fictinomia-
+rum seu hypotheticarum quantitatum. Unde Logistiea vel est verino-
+miarum, de quibus Lib. II. et 111.;' vel fictinomiarum seu algebraicarum,
+de quibus Lib. IV. agetur.
+
+Verinomiae sunt quantitates veris nominibus definitae, quibus, quotae
+sint multitudine, vel quantae sint magnitudine, explicatur.
+
+Verinomiae aut sunt di'scretae numero discreto, aut coneretae numero
+
+concreto nominatae.
+Unde, Logistica verinomiarum vel est discretarum quantitatum,
+
+quae Arithmotiea dieitur, de qua hoc Lib. II. ; vel concretamm, quae
+Geometriea, de qufi Lib. III. agetur.
+

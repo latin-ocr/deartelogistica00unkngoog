@@ -1,0 +1,40 @@
+12
+
+DE ARTE LOGISTICA.
+
+Hinc fit radicalis multiplicationis atque extractionis compendium ubi
+
+indices sunt compositi, facilius enim per componentes sigillatim multipli-
+cantur, aut extrahuntur, quam per compositos·
+
+Exempli gratia, radix quadripartiens difficilius uno opere ex-
+trahitur ex radicato dato, quam si ejusdem radicem bipartientem
+primo extraxeris atque hinc deinde aliam bipartientem. Sic sex-
+tuplicare radicem, vel sextupartientem radicem extrahere, non
+tam facile sit quam si primo triplicaveris, aut tripartientem ex-
+traxeriS, inde duplicaveris aut bipartientem extraxeris, Similis
+est similium ratio. Exemplum in numeris ε Radix sextupartiens
+ὲ 64 facilius extrahitur primo radicem tripartientem extrahendO,
+ut fiant 4, inde bipartientem extrahendo, ut fiant 2 ; vel primo
+radicem bipartientem extrahendo ὲ 64, ut fiant 8, inde extra?
+hendo radicem tripartientem ὲ 8, ut fiant 2, radix sextupartiens
+
+quaesita.
+
+Ex praemissis colligitur radicalis multiplicationiS, partitionis, et ex-
+
+tractionis singulas, duo habere examina3 nimirum multiplicatio proba-
+tur vel partitione vel extractione 3 partitio probatur vel multiplicatione
+vel extractione 3 extracti0, vel multiplicatione vel partitione.
+
+Ut in superiore exemplo radicati 32, indicis 5, et radicis 2, si
+dubites an 32 sint quintuplicatum binarii, radicaliter partire 32
+per 2 et incides in 5, indicem pristinum3 vel extrahe radicem
+quintupartientem 32 et incides in 2, pristinam radicem ; unde
+arguitur 32 esse radicatum verum: Item si dubites an 2 sint
+radix, per eam divide radicaliter 32, et incides in indicem 5, aut
+eundem binarium quintuplicatO, et incides in 32ι Denique ut
+probetur an 5 sint verus index, extrahe radicem quintupartien-
+tem ὲ 32, et incides in 2, aut radicaliter quintuplicato 2, et in-
+cides in 32.
+

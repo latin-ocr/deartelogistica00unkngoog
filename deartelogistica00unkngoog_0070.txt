@@ -1,0 +1,29 @@
+xliv INTRoDUchoN.
+
+theory of equationS, which had received a great extension
+from Tartalea and Cardan. The defect which materially
+impeded the system was in notation, the mainspring of numer-
+ical science. In the year 1544, Michael Stifellius, a Lutheran
+clergyman, published at Nuremberg his Arithmetica Integra,
+a very original Latin treatise on Arithmetie and Algebra,
+wherein he viewed numerical quantitieS, and their combina-
+tionS, closely and ingeniously, and gave an impulse to Algebra
+by improving its notation. He was the first to introduce the
+signs 4- and — for plus and minue, and also the character ss
+(derived from the letter R), to denote the radix or root.
+Moreover, he entered systematically into the consideration of
+arithmetical and geometrical progressions, pointing out what
+may now be termed the logarithmic properties of a correspond-
+
+ing series of the powers of a given number, and the exponents
+
+of those powers, which latter term he uses· But in this spe-
+culation he had formed no conception of the possibility of
+chan gin g the infinite series of natural numbers from an arith-
+metical to a geometrical progression, and then of generating a
+corresponding arithmetical progression.
+
+In the year 1552 appeared the first treatise upon Arith-
+metic and Algebra in the English language. 'Its author was
+the unfortunate Robert Recorde, a mathematician of un-
+

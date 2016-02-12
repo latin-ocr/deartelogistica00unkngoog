@@ -1,0 +1,36 @@
+DE ARTE LOGISTICA. 23
+
+· CAPUT VIII.
+
+DE COMPUTATIONIBUS QUANTITATUM FRACTARUM.
+
+Annrrlonns et substructiones sunt fractionum ejusdem denomina-
+tionis.
+
+Si diversae sunt denominationis, ad eandem reducantur.
+
+Reducuntur autem, partitis utriusque denominatoribus per suum
+maximum communem portitorem, notatis quotis·
+
+Inde multiplicando utrosque terminos prioris in quotum posterioris
+denominatoris, et fit nova prior3 et utrosque terminos posterioris per
+quotum prioris denominatoris, et fit nova. posterior ejusdem denomina-
+tionis.
+
+Ut sint fiaetae ξ et 3- ad eandem denominationem redueendae3
+denominatorum 3 et 9 eommunis maximus partitor est 8, per
+quae divisis denominatoribus, oriuntur l pro priore, et 3 pro pos-
+teriore; deinde, multiplicatis 3, utroque termino, per posteriorem
+quotum 3, oriuntur θ pro priore nova. Sie multiplicando ξ- per
+unitatem (prioris seiJioet quotum), fiunt 3- ejusdem denominationis
+eum 8.
+
+Harum jam ejusdem denominationis, addantur et substrahantur nume-
+ratores novi‚ retento novo et communi denominatore, et habebis addi-
+tionis totam, et substractionis residuam.
+
+Ut superiore exemplo addantur novi numeratores 6 ,et 7, et
+oriuntur 13, quae, cum denominatore communi 9, faciunt L? pro
+additionis tota.. Sic si substraxeris θ ex ᾖ, remanebit ᾖ substrac-
+tionis residua.
+

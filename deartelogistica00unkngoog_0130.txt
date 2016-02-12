@@ -1,0 +1,35 @@
+8 DE ARTE LOGISTICA.
+
+Ut si dubites an 3 multiplicata in 5 producant 15, pro exa.-
+mine partire 15 per 5, et cum inde redeant 8, scis te recte mul-
+tiplicasse: vel aliter, partire 15 per 3 et redeant 5, ut prius.
+Item, si dubites an 16 divisa per 5 producant 3, relicta unitate
+indivisa, multiplicato 3 in 5, non redeunt 16, sed 15 3 ideo ad-
+denda. erit unitas examini, et partitio arguetur unitate imperfecta
+esse.
+
+Est et praeter haec aliud partitionis examen in sc, nimirum partiendo
+partiendum per quotum, ut pristinus inde redeat partitor.
+Ut pro examine an 15 partita. per 5 producant 3, partire 15
+per 8, et redibunt 5, ut prius.
+
+Habes itaque ex totiuS, partia, et partem cognominanda, duabus qui-
+. buscunque datis, tertiam per multiplicationem et partitionem.
+
+CAPUT ΙΙΙ.
+
+DE COMPUTATIONIBUS ORTIS EX PRIMO ORTIS: RADICALIS
+MULTIPLICATIO ET PARTITIO.
+
+HACTENUS ortae ex ipsis primis ; sequuntur ortae ex primo ortis.
+
+Ortae ex primo ortis sunt computationes quae, ex radicati, indicis, et
+radiciS, duabus quibuscunque datia, tertiam inveniunt.
+
+Radicatum est quod aliquoties partitum per quantitatem aliquam in
+unitatem redit; et quotus ille partitionum index dicitur; quantitas
+autem partiens est ipsa radix.
+
+Ut ex his tribus terminia, 32, 5, et 2, 32 dicuntur radicatum,
+quia ea partita quinquies per 2 in unitatem redeunt3 scilicet
+

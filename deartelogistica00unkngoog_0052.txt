@@ -1,0 +1,31 @@
+xxvi 1NTRonthT10N.
+
+steps being deduced from this 0116, the trifling error in question
+is thus carried on through the calculations. Ι corrected his
+error, and then, adopting his own method‚ but abridging the
+operations by our more rapid processes of developement, Ι
+calculated the logarithm of 5000000, which is the last in
+Napier's table, and consequently that upon which all the errors
+accumulate. Ι found for its value 6931471 .808942 3 whereas,
+by the modern serieS‚ it ought to be 6931471805599. Thus
+the difference commences at the tenth figure. Ι calculated,
+in like manner, the hyperbolic logarithm‚ with Napier’s
+numbers corrected, and found for its value 23025850940346,
+while, by our present tables‚ it 'is 230258509299403 so
+the real difference only falls 011 the ninth decimal. But
+this is beyond the range of the tables of Callet, which are in
+daily use. If Napier had even commanded the services of
+a village schoolmaster‚ to calculate‚ by the inventor’s own
+method of subu-actions, a geometrical progression still slower
+than what he used, a desideratum to' which he himself calls
+attention, the tables of Bri ggS‚ calculated to fourteen deci-
+· 111616, would have possessed no superiority over those of
+Napier. His minor inventions are scarcely worth mention-
+
+ing after this immense invention of Logaritth. That was
+
+sufficient for the lifetime, as it is for the 161116, of 6. single
+individual.”
+
+ 
+

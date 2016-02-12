@@ -1,0 +1,28 @@
+INTRonuc'rioN. lxxv
+
+idea. that the arithmetical series, or progression by equi-
+difference of the natural numbers, could be viewed as a
+geometrical series, or progression by multiplication, seemed
+a contradiction in terms. Napier commences by demon-
+strating that the progressive increase, or decrease, of a con-
+crete or continuous quantity may be conceived to be gener-
+ated by a motion in space, so regulated, in respect of the
+velocity, as to generate a continuous geometrica] progres-
+sion, of infinitely small ratios of magnitude, various terms of
+which might be represented, or infinitely nearly so, by the
+series of natural numberS, which thus au become terms of
+a geometrical progression. In like manner„ he demonstrated
+. the genesis of a correspondin g arithmetical progression by a
+simultaneous motion, the velocity of which, being equal through-
+out and not increasing or decreasing, generated magnitudes
+in an arithmetica] progression, which, at an)r given point of the
+progresS, might be represented by a numerica] expression that
+would serve for the index, or number of the ratios (logarithm),
+of the corresponding point in the simultaneous geometrica]
+motion. His idea of motion, thus taken to generate propor-
+tional magnitudes, was analogous to the law of the Arabic
+notation in discrete numbers, where the significant digit may
+be conceived to generate a decuple progression, by travefling
+
+in a line from right to left. There are various circumstances
+

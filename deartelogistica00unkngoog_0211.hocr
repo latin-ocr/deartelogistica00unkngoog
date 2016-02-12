@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deartelogistica00unkngoog_0211.png"; bbox 0 0 4842 6219; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 883 2436 3643 2556">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 883 2436 3643 2556">
+     <span class='ocr_line' id='line_1_1' title="bbox 883 2436 3643 2556; baseline -0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 883 2438 1782 2555; x_wconf 85' lang='lat' dir='ltr'><strong>ALGEBRA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1927 2436 2781 2555; x_wconf 85' lang='lat' dir='ltr'><strong>JOANNIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2925 2437 3643 2556; x_wconf 87' lang='lat' dir='ltr'><strong>NAPERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1309 2859 3217 2955">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1309 2859 3217 2955">
+     <span class='ocr_line' id='line_1_2' title="bbox 1309 2859 3217 2955; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1309 2859 2423 2953; x_wconf 85' lang='lat' dir='ltr'>MERCHISTONII</span> <span class='ocrx_word' id='word_1_5' title='bbox 2529 2860 3217 2955; x_wconf 88' lang='lat' dir='ltr'><strong>BARONIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

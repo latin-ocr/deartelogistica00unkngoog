@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deartelogistica00unkngoog_0013.png"; bbox 0 0 4842 6219; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1429 864 3273 990">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1429 864 3273 990">
+     <span class='ocr_line' id='line_1_1' title="bbox 1429 864 3273 990; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1429 867 1654 990; x_wconf 92' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1756 864 2221 989; x_wconf 87' lang='lat' dir='ltr'><strong>ARTE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2322 864 3273 990; x_wconf 85' lang='lat' dir='ltr'><strong>LOGISTICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1038 1344 3665 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1038 1207 3665 1526">
+     <span class='ocr_line' id='line_1_2' title="bbox 1038 1344 3665 1526; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1038 1344 2353 1525; x_wconf 75' lang='lat' dir='ltr'><strong>JOANNIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2549 1344 3665 1526; x_wconf 80' lang='lat' dir='ltr'><strong>NAPERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1283 1864 3388 1993">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1283 1864 3388 1993">
+     <span class='ocr_line' id='line_1_3' title="bbox 1283 1864 3388 1993; baseline -0.001 0"><span class='ocrx_word' id='word_1_6' title='bbox 1283 1864 2556 1993; x_wconf 83' lang='lat' dir='ltr'>MERCHISTONII</span> <span class='ocrx_word' id='word_1_7' title='bbox 2655 1864 3388 1990; x_wconf 88' lang='lat' dir='ltr'><strong>BARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1596 2336 3062 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1596 2336 3062 2453">
+     <span class='ocr_line' id='line_1_4' title="bbox 1596 2336 3062 2453; baseline 0 -18"><span class='ocrx_word' id='word_1_8' title='bbox 1596 2336 1953 2436; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2024 2337 2243 2453; x_wconf 87' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2317 2336 2959 2436; x_wconf 88' lang='lat' dir='ltr'><strong>SUPERSUN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2964 2338 3062 2436; x_wconf 84' lang='lat' dir='ltr'><strong>T.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1545 4713 3060 5107">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1545 4713 3060 5107">
+     <span class='ocr_line' id='line_1_5' title="bbox 1545 4713 3060 4818; baseline 0.004 -7"><span class='ocrx_word' id='word_1_12' title='bbox 1545 4713 2279 4816; x_wconf 81' lang='lat' dir='ltr'><strong>IMPRESSUM</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2349 4717 3060 4818; x_wconf 80' lang='lat' dir='ltr'><strong>EDINBURGI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1749 4966 2747 5107; baseline -0.001 -42"><span class='ocrx_word' id='word_1_14' title='bbox 1749 5103 1754 5107; x_wconf 23' lang='grc'>,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1854 4966 2747 5068; x_wconf 77' lang='grc' dir='ltr'><strong>Μ.])οοο.ΧΧΧΙΧ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
